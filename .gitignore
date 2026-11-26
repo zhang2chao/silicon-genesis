@@ -24,8 +24,4 @@ hs_err_pid*
 replay_pid*
 
 her-private/
-├── soul/      # 人格 soul.md
-├── memory/    # 长期记忆
-├── stream/    # 意识流 / 思维流
-├── state/     # 当前状态板
-└── keys/      # API key（或统一放 .env）
+
